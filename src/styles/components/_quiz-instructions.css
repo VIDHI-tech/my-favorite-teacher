@@ -1,0 +1,60 @@
+
+.instructions {
+  border: 1px solid darken(#f8f8f8, 10%);
+  border-radius: 5px;
+  margin-top: 3rem;
+  padding: 1.5rem 3rem;
+}
+
+.instructions .right, .left{
+  font-size:xx-large;
+}
+
+.instructions .right{
+  animation: blink 1s linear infiinite;
+}
+
+@keyframes blink{
+  25%{
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 0;
+  }
+  75% {
+    opacity: 0.5;
+  }
+}
+h1 {
+  color: #333;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.lifeline {
+  position: relative;
+  top: -3px;
+}
+
+.lifeline-icon {
+  color: #57b846;
+  cursor: pointer;
+}
+
+.browser-default {
+  padding-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+img {
+  width: 80%;
+  height: 50%;
+}
+
+@media (max-width: 768px) {
+  .instructions img {
+    width: 100% !important;
+    height: 150% !important;
+  }
+}

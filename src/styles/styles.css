@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import './base/_settings.css';
+@import './base/_base.css';
+@import './components/_home.css';
+@import './components/_quiz-instructions.css';
+@import './components/_play.css';
+@import './components/_quiz-summary.css';

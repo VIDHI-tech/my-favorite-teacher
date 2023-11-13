@@ -1,0 +1,87 @@
+[
+    {
+        "question": "I _______ soccer",
+        "optionA": "Love",
+        "optionB": "Do",
+        "optionC": "Laugh",
+        "optionD": "Enjoyable",
+        "answer": "Love"
+    },
+
+    {
+        "question": "5 + 4 = ?",
+        "optionA": "0",
+        "optionB": "9",
+        "optionC": "1",
+        "optionD": "-1",
+        "answer": "9"
+    },
+
+    {
+        "question": "Who wrote Julius Caesar, Macbeth and Hamlet?",
+        "optionA": "Wole Soyinka",
+        "optionB": "William Shakespeare",
+        "optionC": "Ngozi Chimamanda Adichie",
+        "optionD": "Dan Brown",
+        "answer": "William Shakespeare"
+    },
+
+    {
+        "question": "Water boils at 100 degrees Fahrenheit.",
+        "optionA": "Incorrect",
+        "optionC": "Correct",
+        "answer": "Correct"
+    },
+
+    {
+        "question": "What did the crocodile swallow in Peter Pan?",
+        "optionA": "A Book",
+        "optionB": "A Computer",
+        "optionC": "A pair of shoes",
+        "optionD": "Alarm Clock",
+        "answer": "Alarm Clock"
+    },
+
+    {
+        "question": "Where is the smallest bone in the human body?",
+        "optionA": "The Chest",
+        "optionB": "The Ear",
+        "optionC": "The Legs",
+        "optionD": "The Hands",
+        "answer": "The Ear"
+    },
+
+    {
+        "question": "Select the option in which all numbers are divisible by 2.",
+        "optionA": "1, 5, 4, 7",
+        "optionB": "2, 5, 7, 0",
+        "optionC": "6, 8, 2, 4",
+        "optionD": "0, 1, 5, 9",
+        "answer": "6, 8, 2, 4"
+    },
+
+    {
+        "question": "What does the roman numeral C represent?",
+        "optionA": "100",
+        "optionB": "10",
+        "optionC": "10,000",
+        "optionD": "1,000,000",
+        "answer": "100"
+    },
+
+    {
+        "question": "The Earth is the largest planet in our solar system. ",
+        "optionA": "True",
+        "optionC": "False",
+        "answer": "False"
+    },
+
+    {
+        "question": "How many squares are there on a chess board?",
+        "optionA": "128",
+        "optionB": "64",
+        "optionC": "32",
+        "optionD": "256",
+        "answer": "64"
+    }
+]
